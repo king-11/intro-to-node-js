@@ -13,9 +13,9 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "commander": "^6.0.0",
-    "express": "^4.16.3",
+    "express": "^4.17.1",
     "inquirer": "^7.3.3",
     "mime": "^2.4.6",
-    "morgan": "^1.9.1"
+    "morgan": "^1.10.0"
   }
 }
